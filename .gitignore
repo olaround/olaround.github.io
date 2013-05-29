@@ -1,0 +1,7 @@
+*.sublime-project
+*.sublime-workspace
+*.intellisense.cache
+*.htaccess
+.httpd.conf
+Thumbs.db
+web.config
